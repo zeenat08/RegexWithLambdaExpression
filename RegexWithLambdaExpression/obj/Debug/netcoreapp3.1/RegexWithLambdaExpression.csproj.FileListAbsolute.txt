@@ -1,0 +1,14 @@
+C:\Users\Afiyat Khan\source\repos\RegexWithLambdaExpression\RegexWithLambdaExpression\bin\Debug\netcoreapp3.1\RegexWithLambdaExpression.exe
+C:\Users\Afiyat Khan\source\repos\RegexWithLambdaExpression\RegexWithLambdaExpression\bin\Debug\netcoreapp3.1\RegexWithLambdaExpression.deps.json
+C:\Users\Afiyat Khan\source\repos\RegexWithLambdaExpression\RegexWithLambdaExpression\bin\Debug\netcoreapp3.1\RegexWithLambdaExpression.runtimeconfig.json
+C:\Users\Afiyat Khan\source\repos\RegexWithLambdaExpression\RegexWithLambdaExpression\bin\Debug\netcoreapp3.1\RegexWithLambdaExpression.runtimeconfig.dev.json
+C:\Users\Afiyat Khan\source\repos\RegexWithLambdaExpression\RegexWithLambdaExpression\bin\Debug\netcoreapp3.1\RegexWithLambdaExpression.dll
+C:\Users\Afiyat Khan\source\repos\RegexWithLambdaExpression\RegexWithLambdaExpression\bin\Debug\netcoreapp3.1\RegexWithLambdaExpression.pdb
+C:\Users\Afiyat Khan\source\repos\RegexWithLambdaExpression\RegexWithLambdaExpression\obj\Debug\netcoreapp3.1\RegexWithLambdaExpression.csproj.AssemblyReference.cache
+C:\Users\Afiyat Khan\source\repos\RegexWithLambdaExpression\RegexWithLambdaExpression\obj\Debug\netcoreapp3.1\RegexWithLambdaExpression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Afiyat Khan\source\repos\RegexWithLambdaExpression\RegexWithLambdaExpression\obj\Debug\netcoreapp3.1\RegexWithLambdaExpression.AssemblyInfoInputs.cache
+C:\Users\Afiyat Khan\source\repos\RegexWithLambdaExpression\RegexWithLambdaExpression\obj\Debug\netcoreapp3.1\RegexWithLambdaExpression.AssemblyInfo.cs
+C:\Users\Afiyat Khan\source\repos\RegexWithLambdaExpression\RegexWithLambdaExpression\obj\Debug\netcoreapp3.1\RegexWithLambdaExpression.csproj.CoreCompileInputs.cache
+C:\Users\Afiyat Khan\source\repos\RegexWithLambdaExpression\RegexWithLambdaExpression\obj\Debug\netcoreapp3.1\RegexWithLambdaExpression.dll
+C:\Users\Afiyat Khan\source\repos\RegexWithLambdaExpression\RegexWithLambdaExpression\obj\Debug\netcoreapp3.1\RegexWithLambdaExpression.pdb
+C:\Users\Afiyat Khan\source\repos\RegexWithLambdaExpression\RegexWithLambdaExpression\obj\Debug\netcoreapp3.1\RegexWithLambdaExpression.genruntimeconfig.cache
